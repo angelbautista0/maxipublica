@@ -1,4 +1,6 @@
 <?php
+//hay un error con el PHP Driver para MongoDB hasta aquí pude avanzar por tiempo.
+//intentaré mas tarde con el PHP Driver para empezar con las rutinas CRUD mediante API
 
     require_once "../vendor/autoload.php"; 
 
